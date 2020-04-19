@@ -43,7 +43,7 @@ hitokoto: true
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
     # facebook: /
-    twitter: /
+    # twitter: /
     github: https://github.com/hongjun500
     wechat: /img/logo.png
     email: bhj.hongjun@qq.com
